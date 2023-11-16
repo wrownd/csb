@@ -12,7 +12,7 @@
   },
   "author": "",
   "dependencies": {
-    "@titaniumnetwork-dev/ultraviolet": "^2.0.0",
+    "cb": "github:wrownd/cb",
     "@tomphttp/bare-server-node": "^2.0.0",
     "express": "^4.18.2",
     "cb-static": "github:wrownd/cb-static"
